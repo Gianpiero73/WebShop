@@ -2,6 +2,8 @@
 
 link to site:  https://webshop-69f29.web.app
 
+![Schermata 2023-09-14 alle 16 49 51](https://github.com/Gianpiero73/WebShop/assets/80164691/96fdc801-1b10-4eda-ae48-b9fe1c8be225)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 
 ## Development server
