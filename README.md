@@ -1,6 +1,6 @@
 # WebShop
 
-link to site: 
+link to site:  https://webshop-69f29.web.app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 
